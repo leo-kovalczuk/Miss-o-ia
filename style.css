@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Story+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Metal+Mania&family=Story+Script&display=swap');
+
 
 :root{
-    --fonte-titulo:'Shadows Into Light';
-    --fonte-texto: 'Playfair Display';
+    --fonte-titulo:'Metal Mania';
+    --fonte-texto: 'Fjalla One';
 }
