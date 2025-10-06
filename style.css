@@ -5,4 +5,16 @@
 :root{
     --fonte-titulo:'Metal Mania';
     --fonte-texto: 'Fjalla One';
+    --cor-principal:	#1E1E2E ;
+    --cor-secundaria:#ABB8C3 ;
+    --cor-destaque:#3910d0 ;
+    --cor-texto:#F8F8F2 ;
+}
+.body{
+    background-color: var(--cor-principal);
+    color: var(--cor-texto);
+    font-family: var(--fonte-texto);
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
